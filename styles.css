@@ -1,0 +1,59 @@
+body{
+    display: flex;
+    padding-left: 500px;
+    background: black;
+}
+
+#perfil{
+        height:28px;
+        width: 28px;
+}
+
+#cor{
+    padding-right: 10px;
+    float:right;
+    }
+
+#imagen{    
+    height: 400px;
+    width: 400px;
+}
+
+.likes{
+    font-size: 14px;
+    padding: 5px
+}
+
+.comentario{
+    padding: 5px;
+    font-size: 14px;
+    width: 390px;
+}
+
+.post{
+    font-family: 'Material Icons';
+    font-family: 'Roboto', sans-serif;
+    background-color: white ;
+    display: block;
+    position: absolute;
+    }
+ 
+.postheader{
+    padding: 5px;
+    line-height:1px;
+    font-size: 12px;
+}
+
+.perfil{
+    display: inline-block;
+}
+
+.usuario{
+    display: inline-block;
+}
+
+.hamb{
+    float:right;
+}
+
+
